@@ -4,6 +4,8 @@ App correspondiente a la asignatura PMDM (Programación Multimedia y Dispositivo
 
 La realicé para repasar los contenidos más importantes de la asignatura para preparar el examen final.
 
+Consiste en una escala de percepción del esfuerzo en la que los clientes de un gym/entrenador pueden opinar sobre la intensidad del ejercicio realizado.
+
 En la app podemos ver:
 
 - trabajo con diferentes componentes: editText, checkBox, radioGroup and radioButtons, Spinner.
