@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">NewGym</string>
+
+    <!--Opciones menú-->
+    <string name="opcion_inicio">Inicio</string>
+    <string name="opcion_ver">Ver valoraciones</string>
+    <string name="opcion_acerca">Acerca de...</string>
+    <string name="opcion_salir">Salir</string>
+
+    <!--Texto botones-->
+    <string name="bt_Empezar">Empezar</string>
+    <string name="bt_Volver">Volver</string>
+    <string name="bt_valorar">Valorar entrenamiento</string>
+    <string name="bt_guardar">Guardar valoración</string>
+    <string name="bt_modificar">Modificar</string>
+    <string name="bt_eliminar">Eliminar</string>
+
+    <!--Titulos-->
+    <string name="titulo_ayuda">Ayuda</string>
+    <string name="titulo_info">Información</string>
+    <string name="titulo_datos_personales">Datos personales</string>
+    <string name="titulo_escala">Escala de percepción del esfuerzo</string>
+    <string name="titulo_listado_valoraciones">Listado de Valoraciones</string>
+    <string name="titulo_valoracion">Valoración</string>
+
+    <!--Texto de la ayuda-->
+    <string name="texto_ayuda">
+        <b>What is Lorem Ipsum?</b>\n\n
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+        \n\n
+        <b>Why do we use it?</b>\n\n
+        It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using \'Content here, content here\', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for \'lorem ipsum\' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).
+    </string>
+
+    <!--Textos-->
+    <string name="autor">Autor: <b>David Jiménez Riscardo</b>b></string>
+    <string name="anio">Año: 2020</string>
+    <string name="version">Versión: 1.0</string>
+    <string name="descripcion">Proyecto de pruebas para preparar el examen final de la asignatura PMDM.</string>
+    <string name="fecha">Fecha</string>
+    <string name="nombre">Nombre</string>
+    <string name="edad">Edad</string>
+    <string name="genero">Género</string>
+    <string name="privacidad">Aceptar política de privacidad</string>
+    <string name="pregunta">¿Cómo te ha resultado la intensidad del entrenamiento?</string>
+    <string name="respuesta_1">Muy elevada</string>
+    <string name="respuesta_2">Elevada</string>
+    <string name="respuesta_3">Media</string>
+    <string name="respuesta_4">Poca</string>
+    <string name="respuesta_5">Muy poca</string>
+
+    <!--Spinners-->
+    <string name="sp_seleccionar">- Seleccionar -</string>
+    <string name="sp_hombre">Hombre</string>
+    <string name="sp_mujer">Mujer</string>
+
+
+    <!--Mensajes validación de datos-->
+    <string name="val_nombre">Debe de introducir el nombre</string>
+    <string name="val_edad">Debe de introducir la edad</string>
+    <string name="val_joven">Es demasiado joven para entrenar</string>
+    <string name="val_mayor">Es demasiado mayor para entrenar</string>
+    <string name="val_genero">Debe de seleccionar un género</string>
+    <string name="val_privacidad">Debe de aceptar la política de privacidad</string>
+    <string name="val_opcion">Debe de seleccionar una opción</string>
+
+    <!--Mensajes operaciones BD-->
+    <string name="men_no_registros">No existen registros</string>
+    <string name="men_insert">Datos insertados</string>
+    <string name="men_no_insert">Error en la inserción</string>
+    <string name="men_update">Datos modificados</string>
+    <string name="men_no_update">Error en la modificación</string>
+    <string name="men_delete">Datos eliminados</string>
+    <string name="men_no_delete">Error en la eliminación</string>
+
+
+</resources>

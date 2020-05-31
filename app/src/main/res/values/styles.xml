@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Paleta de colores -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+
+        <!-- Tool Bar -->
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+
+        <!--Botones-->
+        <item name="colorButtonNormal">@color/colorAccent</item>
+
+        <!--Colores del texto-->
+        <item name="android:textColorPrimary">@color/colorPrimaryText</item>
+        <item name="android:textColorSecondary">@color/colorSecondaryText</item>
+
+        <!--Fuente por defecto-->
+        <item name="android:fontFamily">@font/ubuntu_regular</item>
+
+    </style>
+
+    <!--Estilo del botones, sobreescribimos carasterísticas heredadas de los estilos generales-->
+    <style name="botones" parent="AppTheme">
+        <item name="android:textColor">@color/colorIcons</item>
+        <item name="android:textSize">20dp</item>
+        <item name="android:fontFamily">@font/ubuntu_bolditalic</item>
+    </style>
+
+    <!--Estilos de los títulos, sobreescribimos carasterísticas heredadas de los estilos generales-->
+    <style name="titulos" parent="AppTheme">
+        <item name="android:textSize">20dp</item>
+        <item name="android:fontFamily">@font/ubuntu_bold</item>
+    </style>
+
+</resources>
