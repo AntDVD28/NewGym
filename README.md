@@ -8,7 +8,7 @@ Consiste en una escala de percepción del esfuerzo en la que los clientes de un 
 
 En la app podemos ver:
 
-- trabajo con diferentes componentes: editText, checkBox, radioGroup and radioButtons, Spinner.
+- trabajo con diferentes componentes visuales: editText, checkBox, radioGroup and radioButtons, Spinner.
 - pasar información entre diferentes activitys
 - trabajo con bases de datos: consulta, inserción, actualización y eliminación
 
